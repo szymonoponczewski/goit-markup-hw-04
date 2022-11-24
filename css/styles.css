@@ -311,6 +311,13 @@ body {
   display: block;
 }
 
+.product-list-item:hover {
+  box-shadow: 0rem 0.06rem 0.06rem rgba(0, 0, 0, 0.12), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.06),
+    0.06rem 0.25rem 0.36rem rgba(0, 0, 0, 0.16);
+  transition-duration: 500ms;
+  cursor: pointer;
+}
+
 .product-card-footer {
   padding: 1.37rem 1.5rem;
   border: solid var(--color-grey);
