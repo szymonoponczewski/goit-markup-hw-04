@@ -66,14 +66,21 @@ body {
 }
 
 .header-mail-link {
-  margin-right: 3.2rem;
+  margin-right: 1.9rem;
   letter-spacing: 0.02rem;
 }
 
+.header-contacts-section {
+  text-align: center;
+}
+
 .contact-icon {
-  fill: black;
   margin-right: 10px;
 }
+.contact-icon:hover {
+  fill: rgba(33, 150, 243, 1);
+}
+
 .header-contact-link:hover {
   color: rgba(33, 150, 243, 1);
 }
