@@ -367,27 +367,6 @@ body {
   fill: var(--social-icon-hover);
 }
 
-/* .icon-wrapper:focus {
-  background-color: var(--hover-color);
-  border-radius: 50%;
-}
-
-.icon-wrapper:focus .instagram-icon {
-  fill: var(--social-icon-hover);
-}
-
-.icon-wrapper:focus .twitter-icon {
-  fill: var(--social-icon-hover);
-}
-
-.icon-wrapper:focus .facebook-icon {
-  fill: var(--social-icon-hover);
-}
-
-.icon-wrapper:focus .linkedin-icon {
-  fill: var(--social-icon-hover);
-} */
-
 .social-links-icons {
   margin: 0 2rem 1.88rem;
 }
