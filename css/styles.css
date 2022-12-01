@@ -398,7 +398,7 @@ body {
 
 .social-links-list {
   justify-content: space-between;
-  column-gap: 10px;
+  column-gap: 0.63rem;
 }
 
 .our-clients-icon {
